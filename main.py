@@ -12,7 +12,7 @@ from dotenv import load_dotenv
 from auth_utils import (
     register_user,
     login_user,
-    verify_token as verify_jwt  # alias si tu l’utilises plus tard
+   
 )
 
 # Charger les variables d’environnement
